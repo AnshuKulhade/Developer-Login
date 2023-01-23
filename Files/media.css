@@ -1,0 +1,36 @@
+* {
+    /* background-color: yellowgreen; */
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.main #head_tag {
+    display: block;
+    font-size: 1.8em;
+    /* margin: 12px 0px 100px 3px; */
+    /* margin-right: 50px; */
+    width: max-content;
+    border: 4px soild white;
+    position: relative;
+    margin-left: 15px;
+    margin-top: 35px;
+}
+
+.main h1 #fec_span1 {
+    font-size: 20px;
+}
+
+.main .fec {
+    display: flex;
+}
+
+.login {
+    width: 64px;
+    height: 35px;
+    font: 14px
+}
+
+.lav {
+    font-size: 18px;
+}
