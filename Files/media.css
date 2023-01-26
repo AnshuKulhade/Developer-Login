@@ -17,8 +17,8 @@
     width: max-content;
     border: 4px soild white;
     position: relative;
-    margin-left: 20px;
-    margin-top: 35px;
+    top: 12px;
+    margin: auto;
 }
 
 .main h1 #fec_span1 {
